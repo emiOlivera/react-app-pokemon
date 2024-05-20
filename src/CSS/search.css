@@ -15,9 +15,11 @@
     justify-content: center;
     border-radius: 8px;
     font-family:'Public Pixel', sans-serif;
+    text-align: center;
 }
 
 .buscador p{
+    text-align: center;
     font-size: 20px;
     height: 45%;
     margin-bottom: 10px;

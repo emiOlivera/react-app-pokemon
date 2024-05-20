@@ -260,3 +260,8 @@ width: 70px;
     position: absolute;
 }
 
+@media screen and (max-width: 768px) {
+    .card-container{
+        margin-left: 50px;
+    }
+}

@@ -205,4 +205,10 @@ nav ul li {
   .dropdown-content {
     left: -50%;
   }
+  .homebtn{
+    font-size: 6.5px
+  }
+  .dropbtn{
+    font-size: 6.5px
+  }
 }
