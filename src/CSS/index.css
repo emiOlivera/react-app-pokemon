@@ -113,6 +113,11 @@ body {
     background-size: cover;
 }
 
+.card-container .flip-card .flip-card-inner .main{
+    display: flex;
+    width: 98%;
+}
+
 .card-container .flip-card .flip-card-inner .sider{
   height: 40px;
   width: 98%;
