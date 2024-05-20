@@ -1,0 +1,194 @@
+.bicho-back{
+    background: #7cb342;
+}
+
+.bicho-information{
+    background: #405c22;
+}
+
+.bicho-data{
+    background: #87d132;
+}
+
+.dragón-back{
+    background: #4d42b3;
+}
+
+.dragón-information{
+    background: #23225c;
+    color: white;
+}
+
+.dragón-data{
+    background: #5b83f1;
+    font-weight: bolder;
+}
+
+.electrico-back{
+    background: #b3b142;
+}
+
+.electrico-information{
+    background: #5c5b22;
+    color: white;
+}
+
+.electrico-data{
+    background: #eef15b;
+}
+
+.hada-back{
+    background: #f566ee;
+}
+
+.hada-information{
+    background: #c054c0;
+    color: white;
+}
+
+.hada-data{
+    background: #e387f5;
+}
+
+.lucha-back{
+    background: #b36242;
+}
+
+.lucha-information{
+    background: #793c2d;
+    color: white;
+}
+
+.lucha-data{
+    background: #ff7535;
+}
+
+.fuego-back{
+    background: #b34242;
+}
+
+.fuego-information{
+    background: #792d2d;
+    color: white;
+}
+
+.fuego-data{
+    background: #f06a60;
+}
+
+.fantasma-back{
+    background: #6442b3;
+}
+
+.fantasma-information{
+    background: #4e2d79;
+    color: white;
+}
+
+.fantasma-data{
+    background: #7f60f0;
+}
+
+.planta-back{
+    background: #42b348;
+}
+
+.planta-information{
+    background: #2d792d;
+    color: white;
+}
+
+.planta-data{
+    background: #6cf060;
+}
+
+.tierra-back{
+    background: #b38242;
+}
+
+.tierra-information{
+    background: #795f2d;
+    color: white;
+}
+
+.tierra-data{
+    background: #eea94f;
+}
+
+.hielo-back{
+    background: #42a6b3;
+}
+
+.hielo-information{
+    background: #2d6779;
+    color: white;
+}
+
+.hielo-data{
+    background: #5bb6eb;
+}
+
+.normal-back{
+    background: #aebec0;
+}
+
+.normal-information{
+    background: #585f61;
+    color: white;
+}
+
+.normal-data{
+    background: #c1cacf;
+}
+
+.veneno-back{
+    background: #5b42b3;
+}
+
+.veneno-information{
+    background: #3b2d79;
+    color: white;
+}
+
+.veneno-data{
+    background: #865beb;
+}
+
+.psiquico-back{
+    background: #af42b3;
+}
+
+.psiquico-information{
+    background: #aa04a2;
+    color: white;
+}
+
+.psiquico-data{
+    background: #d752db;
+}
+
+.agua-back{
+    background: #426ab3;
+}
+
+.agua-information{
+    background: #045faa;
+    color: white;
+}
+
+.agua-data{
+    background: #52a9db;
+}
+
+.roca-back{
+    background: #afa080;
+}
+
+.roca-information{
+    background: #746042;
+    color: white;
+}
+
+.roca-data{
+    background: #c9bb9e;
+}

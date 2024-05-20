@@ -1,0 +1,363 @@
+.card-container .flip-card .flip-card-inner.psychic::before{
+    background: linear-gradient(90deg, #fc50ff 8%, #f024e9 47%, #ff00c3 84%)
+}
+.psychic{
+    background: linear-gradient(90deg, #fc50ff 8%, #f024e9 47%, #ff00c3 84%)
+}
+.psychic-parts{
+    background: linear-gradient(45deg, #d85eb8 50%, rgba(242,169,169,1) 64%, #d85eb8 70%)
+}
+.psychic-icon{
+    color: #d85eb8;
+}
+.psychic-barra{
+    background-color:#b82891;
+}
+.psychic-porcentaje{
+    background-color:#f19ddc;
+}
+
+
+
+.water-icon{
+    color: #4e79a7;
+}
+.card-container .flip-card .flip-card-inner.water::before{
+    background: linear-gradient(90deg, #4e79a7 8%, #81b1d2 47%, #aad6e6 84%)
+}
+.water{
+    background: linear-gradient(90deg, #4e79a7 8%, #81b1d2 47%, #aad6e6 84%)
+}
+.water-parts{
+    background: linear-gradient(45deg, #4e79a7 50%, rgba(130, 175, 247, 1) 64%, #4e79a7 70%)
+}
+.water-barra{
+    background-color:#0c427c ;
+    color: rgb(0, 0, 0);
+}
+.water-porcentaje{
+    background-color:#1278e6 ;
+    color: black;
+}
+
+
+
+.fire-icon{
+    color: #e15759;
+}
+.card-container .flip-card .flip-card-inner.fire::before{
+    background: linear-gradient(90deg, #f3494c 8%, #f36e67 47%, #fdca3f 84%)
+}
+.fire{
+    background: linear-gradient(90deg, #f3494c 8%, #f36e67 47%, #fdca3f 84%)
+}
+.fire-parts{
+    background: linear-gradient(45deg, #e15759 50%, rgb(245, 157, 130) 64%, #e15759 70%)
+}
+.fire-barra{
+    background-color: #750b0d;
+    color: white
+}
+.fire-porcentaje{
+    background-color: #e60f13;
+    color: black;
+}
+
+
+
+
+.grass-icon{
+    color: #59a14f;
+}
+.card-container .flip-card .flip-card-inner.grass::before{
+    background: linear-gradient(90deg, #59a14f 8%, #8cd17d 47%, #b5eaaa 84%)
+}
+.grass{
+    background: linear-gradient(90deg, #59a14f 8%, #8cd17d 47%, #b5eaaa 84%)
+}
+.grass-parts{
+    background: linear-gradient(45deg, #59a14f 50%, rgba(153, 196, 94, 1) 64%, #59a14f 70%)
+}
+.grass-barra{
+    background-color: #0e4606;
+    color: white;
+}
+.grass-porcentaje{
+    background-color: #4ddf3a;
+    color: black;
+}
+
+
+
+
+
+.ground-icon{
+    color: #645020;
+}
+.card-container .flip-card .flip-card-inner.ground::before{
+    background: linear-gradient(90deg, #5a3c15 8%, #74520b 47%, #b1761f 84%)
+}
+.ground{
+    background: linear-gradient(90deg, #5a3c15 8%, #74520b 47%, #b1761f 84%)
+}
+.ground-parts{
+    background: linear-gradient(45deg, #645020 50%, #775f26 64%, #645020 70%);
+    color:white;
+}
+
+.ground-barra{
+    background-color: #c28a10;
+    color: rgb(0, 0, 0);
+}
+.ground-porcentaje{
+    background-color: #553a08;
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+.poison-icon{
+    color: #55099c;
+}
+.card-container .flip-card .flip-card-inner.poison::before{
+    background: linear-gradient(90deg, #1b0331 8%, #33065e 47%, #460681 84%)
+}
+.poison{
+    background: linear-gradient(90deg, #1b0331 8%, #33065e 47%, #460681 84%)
+}
+.poison-parts{
+    background: linear-gradient(45deg, #55099c 50%, #7b0fe0 64%, #55099c 70%);
+    color: white;
+}
+.poison-barra{
+    background-color: #8b22d1;
+    color: rgb(0, 0, 0);
+}
+.poison-porcentaje{
+    background-color: #25034b;
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+
+.normal-icon{
+    color: #a9a9a9;
+}
+.card-container .flip-card .flip-card-inner.normal::before{
+    background: linear-gradient(90deg, #a9a9a9 8%, #d3d3d3 47%, #f0f0f0 84%)
+}
+.normal{
+    background: linear-gradient(90deg, #a9a9a9 8%, #d3d3d3 47%, #f0f0f0 84%)
+}
+.normal-parts{
+    background: linear-gradient(45deg, #a9a9a9 50%, rgb(139, 137, 137) 64%, #a9a9a9 70%)
+}
+.normal-barra{
+    background-color: #404041;
+    color: rgb(255, 255, 255);
+}
+.normal-porcentaje{
+    background-color: #848386;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+
+
+.electric-icon{
+    color: #f3f02f;
+}
+.card-container .flip-card .flip-card-inner.electric::before{
+    background: linear-gradient(90deg, #ebbc23 8%, #ece92e 47%, #e9e50b 84%)
+}
+.electric{
+    background: linear-gradient(90deg, #f7c216 8%, #ecd92e 47%, #e9c00b 84%)
+}
+.electric-parts{
+    background: linear-gradient(45deg, #f3f02f 50%, #fdfb8b 64%, #f3f02f 70%)
+}
+.electric-barra{
+    background-color: #ff9900;
+    color: rgb(0, 0, 0);
+}
+.electric-porcentaje{
+    background-color: #f7f200;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+
+
+.fighting-icon{
+    color: #ff6f69;
+}
+.card-container .flip-card .flip-card-inner.fighting::before{
+    background: linear-gradient(90deg, #ff6f69 8%, #ff9f77 47%, #f89b54 84%)
+}
+.fighting{
+    background: linear-gradient(90deg, #ff6f69 8%, #ff9f77 47%, #ff9b54 84%)
+}
+.fighting-parts{
+    background: linear-gradient(45deg, #ff6f69 50%, rgba(252, 195, 60, 1) 64%, #ff6f69 70%)
+}
+.fighting-barra{
+    background-color: #682927;
+    color: rgb(255, 255, 255);
+}
+.fighting-porcentaje{
+    background-color: #fd9693;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+
+.ice-icon{
+    color: #5ab1bb;
+}
+.card-container .flip-card .flip-card-inner.ice::before{
+    background: linear-gradient(90deg, #5ab1bb 8%, #aadce0 47%, #e0f7fa 84%)
+}
+.ice{
+    background: linear-gradient(90deg, #5ab1bb 8%, #aadce0 47%, #e0f7fa 84%)
+}
+.ice-parts{
+    background: linear-gradient(45deg, #5ab1bb 50%, rgba(137, 208, 240, 1) 64%, #5ab1bb 70%)
+}
+.ice-barra{
+    background-color: #3264cf;
+    color: rgb(0, 0, 0);
+}
+.ice-porcentaje{
+    background-color: #11addd;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+
+.bug-icon{
+    color: #7cb342;
+}
+.card-container .flip-card .flip-card-inner.bug::before{
+    background: linear-gradient(90deg, #7cb342 8%, #c4e99b 47%, #ecf788 84%)
+}
+.bug{
+    background: linear-gradient(90deg, #7cb342 8%, #c4e99b 47%, #ecf788 84%)
+}
+.bug-parts{
+    background: linear-gradient(45deg, #7cb342 50%, rgba(197, 225, 165, 1) 64%, #7cb342 70%)
+}
+.bug-barra{
+    background-color: #2c5006;
+    color: rgb(255, 255, 255);
+}
+.bug-porcentaje{
+    background-color: #69e421;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+.rock-icon{
+    color: #a1887f;
+}
+.card-container .flip-card .flip-card-inner.rock::before{
+    background: linear-gradient(90deg, #a1887f 8%, #bcaaa4 47%, #d7ccc8 84%)
+}
+.rock{
+    background: linear-gradient(90deg, #a1887f 8%, #bcaaa4 47%, #d7ccc8 84%)
+}
+.rock-parts{
+    background: linear-gradient(45deg, #a1887f 50%, rgba(189, 147, 249, 1) 64%, #a1887f 70%)
+}
+.rock-barra{
+    background-color: #413733;
+    color: rgb(255, 255, 255);
+}
+.rock-porcentaje{
+    background-color: #94847f;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+.ghost-icon{
+    color: #7986cb;
+}
+.card-container .flip-card .flip-card-inner.ghost::before{
+    background: linear-gradient(90deg, rgb(114, 58, 160) 8%, rgb(120, 96, 185) 47%, #8879cb 84%)
+}
+.ghost{
+    background: linear-gradient(90deg, rgb(114, 58, 160) 8%, rgb(120, 96, 185) 47%, #8879cb 84%)
+}
+.ghost-parts{
+    background: linear-gradient(45deg, #7986cb 50%, rgba(173, 138, 230, 1) 64%, #7986cb 70%)
+}
+.ghost-barra{
+    background-color: #212741;
+    color: rgb(255, 255, 255);
+}
+.ghost-porcentaje{
+    background-color: #5a66a3;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+.dragon-icon{
+    color: #4a148c;
+}
+.card-container .flip-card .flip-card-inner.dragon::before{
+    background: linear-gradient(90deg, #2a148c 8%, #7e57c2 47%, #b39ddb 84%)
+}
+.dragon{
+    background: linear-gradient(90deg, #2a148c 8%, #7e57c2 47%, #b39ddb 84%)
+}
+.dragon-parts{
+    background: linear-gradient(45deg, #4a148c 50%, rgba(98, 0, 234, 1) 64%, #4a148c 70%);
+    color: white;
+}
+.dragon-barra{
+    background-color: #4828d6;
+    color: rgb(0, 0, 0);
+}
+.dragon-porcentaje{
+    background-color: #2a1979;
+    color: rgb(255, 255, 255);
+}
+
+
+
+.fairy-icon{
+    color: #ce93d8;
+}
+.card-container .flip-card .flip-card-inner.fairy::before{
+    background: linear-gradient(90deg, #ce93d8 8%, #e1bee7 47%, #f3e5f5 84%)
+}
+.fairy{
+    background: linear-gradient(90deg, #ce93d8 8%, #e1bee7 47%, #f3e5f5 84%)
+}
+.fairy-parts{
+    background: linear-gradient(45deg, #ce93d8 50%, rgba(255, 204, 255, 1) 64%, #ce93d8 70%)
+}
+.fairy-barra{
+    background-color: #5c3d61;
+    color: rgb(255, 255, 255);
+}
+.fairy-porcentaje{
+    background-color: #cc7dda;
+    color: rgb(0, 0, 0);
+}
