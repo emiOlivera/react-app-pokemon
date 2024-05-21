@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-app-pokemon/static/css/main.049dfd9f.css",
+    "main.css": "/react-app-pokemon/static/css/main.2d361817.css",
     "main.js": "/react-app-pokemon/static/js/main.a4f4ae30.js",
     "static/media/rock-main.jpg": "/react-app-pokemon/static/media/rock-main.bc78f81ed580dc97bec4.jpg",
     "static/media/normal-main.jpg": "/react-app-pokemon/static/media/normal-main.4c250f210a2a2101910c.jpg",
@@ -49,11 +49,11 @@
     "static/media/psychic-back.jpg": "/react-app-pokemon/static/media/psychic-back.3056af20b29c397890c9.jpg",
     "static/media/fighting-atribute.png": "/react-app-pokemon/static/media/fighting-atribute.8c34f3a1e966eae1381a.png",
     "index.html": "/react-app-pokemon/index.html",
-    "main.049dfd9f.css.map": "/react-app-pokemon/static/css/main.049dfd9f.css.map",
+    "main.2d361817.css.map": "/react-app-pokemon/static/css/main.2d361817.css.map",
     "main.a4f4ae30.js.map": "/react-app-pokemon/static/js/main.a4f4ae30.js.map"
   },
   "entrypoints": [
-    "static/css/main.049dfd9f.css",
+    "static/css/main.2d361817.css",
     "static/js/main.a4f4ae30.js"
   ]
 }
