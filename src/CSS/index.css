@@ -104,7 +104,7 @@ body {
 
 .card-container .flip-card .flip-card-inner .main .imagen{
     display: flex;
-    width: 98%;
+    max-width: 98%;
     border: solid 2px black;
     margin: 2px auto;
     border-radius: 8px;
@@ -138,6 +138,7 @@ body {
   cursor: pointer;
   font-size: 19px;
   font-weight: bold;
+  color: black;
 }
 
 .card-container .flip-card .flip-card-inner .footer{
