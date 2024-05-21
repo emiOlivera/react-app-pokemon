@@ -114,6 +114,8 @@ body {
 }
 
 .main .img{
+    display: flex;
+    box-sizing: border-box;
     -webkit-max-width: 90%;
 }
 
