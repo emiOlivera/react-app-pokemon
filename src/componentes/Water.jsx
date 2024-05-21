@@ -47,7 +47,7 @@ const volver = (e) =>{
                   {/* MAIN CARD */}
                     <div className='main'>
                       <div className='imagen' style={{backgroundImage: `url(${require(`../main-imagen/${pokemon.type1}-main.jpg`)}`}}>
-                        <img src={pokemon.img} alt={pokemon.name}/>
+                      <img src={pokemon.img} alt={pokemon.name} style={{width: "90%"}}/>
                       </div>
                     </div>
                   {/* SIDER CARD */ }
