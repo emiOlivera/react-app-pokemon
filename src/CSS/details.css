@@ -271,3 +271,14 @@ text-shadow: #000000 1px 1px;
     padding: 5px;
     box-sizing: border-box;
     }
+
+    @media screen and (max-width: 768px) {
+    
+.detail-name{
+    font-size: 40px;
+}
+.download{
+    width: 82px;
+    font-size: 11px;
+}
+    }

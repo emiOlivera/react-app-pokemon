@@ -113,6 +113,10 @@ body {
     background-size: cover;
 }
 
+.main .img{
+    -webkit-max-width: 90%;
+}
+
 .card-container .flip-card .flip-card-inner .main{
     display: flex;
     width: 98%;
@@ -138,7 +142,7 @@ body {
   cursor: pointer;
   font-size: 19px;
   font-weight: bold;
-  color: black;
+  -webkit-text-fill-color: #000000;
 }
 
 .card-container .flip-card .flip-card-inner .footer{
@@ -263,6 +267,6 @@ width: 70px;
 
 @media screen and (max-width: 768px) {
     .card-container{
-        margin-left: 50px;
+        margin-left: 12.5%;
     }
 }

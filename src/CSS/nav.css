@@ -211,4 +211,9 @@ nav ul li {
   .dropbtn{
     font-size: 6px
   }
+  .btnAB{
+    width: 100px;
+    margin-left: 20px;
+  }
+
 }
